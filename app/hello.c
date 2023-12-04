@@ -2,6 +2,6 @@
 
 int main()
 {
-    puts("Hello from bat");
+    puts("Hello from bat !");
     return 0;
 }
