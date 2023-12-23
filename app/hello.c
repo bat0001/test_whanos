@@ -2,7 +2,8 @@
 
 int main()
 {
-    puts(" ia hal from bat, n-ieme try !!");
+    puts(" ia halal from bat, n-ieme try !!");
+
     
     return 0;
 }
