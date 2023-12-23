@@ -2,7 +2,7 @@
 
 int main()
 {
-    puts("heal from bat, n-ieme try !!");
+    puts("hal from bat, n-ieme try !!");
     
     return 0;
 }
