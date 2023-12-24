@@ -2,8 +2,9 @@
 
 int main()
 {
-    puts("m bat, n-ieme try !!");
+    puts("mhe bat, n-ieme try !!");
 
     
     return 0;
 }
+
