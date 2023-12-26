@@ -2,7 +2,7 @@
 
 int main()
 {
-    puts("mas bat, n-ieme try !!");
+    puts("ms bat, n-ieme try !!");
 
     
     return 0;
